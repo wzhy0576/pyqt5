@@ -5,7 +5,7 @@
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from layout import *
+from Click_close_Win import *
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -15,4 +15,3 @@ if __name__ == '__main__':
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
-
