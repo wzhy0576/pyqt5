@@ -2,9 +2,18 @@
 <ui version="4.0">
     <class>MainWindow</class>
     <widget class="QMainWindow" name="MainWindow">
+        <
+        <
+        <
+        <
+        <
+        <
+        < HEAD
         <property name="enabled">
             <bool>true</bool>
         </property>
+        =======
+        >>>>>>> origin/main
         <property name="geometry">
             <rect>
                 <x>0</x>
@@ -20,8 +29,19 @@
             <widget class="QPushButton" name="pushButton">
                 <property name="geometry">
                     <rect>
+                        <
+                        <
+                        <
+                        <
+                        <
+                        <
+                        < HEAD
                         <x>120</x>
                         <y>90</y>
+                        =======
+                        <x>340</x>
+                        <y>200</y>
+                        >>>>>>> origin/main
                         <width>211</width>
                         <height>91</height>
                     </rect>
@@ -30,6 +50,13 @@
                     <string>关闭窗口</string>
                 </property>
             </widget>
+            <
+            <
+            <
+            <
+            <
+            <
+            < HEAD
             <widget class="QCheckBox" name="checkBox">
                 <property name="enabled">
                     <bool>true</bool>
@@ -90,6 +117,8 @@
             <zorder>pushButton</zorder>
             <zorder>checkBox</zorder>
             <zorder>textEdit</zorder>
+            =======
+            >>>>>>> origin/main
         </widget>
         <widget class="QMenuBar" name="menubar">
             <property name="geometry">
@@ -112,8 +141,19 @@
             <slot>close()</slot>
             <hints>
                 <hint type="sourcelabel">
+                    <
+                    <
+                    <
+                    <
+                    <
+                    <
+                    < HEAD
                     <x>252</x>
                     <y>196</y>
+                    =======
+                    <x>472</x>
+                    <y>280</y>
+                    >>>>>>> origin/main
                 </hint>
                 <hint type="destinationlabel">
                     <x>475</x>
@@ -121,6 +161,13 @@
                 </hint>
             </hints>
         </connection>
+        <
+        <
+        <
+        <
+        <
+        <
+        < HEAD
         <connection>
             <sender>checkBox</sender>
             <signal>clicked(bool)</signal>
@@ -153,5 +200,7 @@
                 </hint>
             </hints>
         </connection>
+        =======
+        >>>>>>> origin/main
     </connections>
 </ui>

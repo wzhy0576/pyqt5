@@ -1,3 +1,4 @@
+
 # pyuic配置
 $FileName$ -o $FileNameWithoutExtension$.py
 
@@ -14,3 +15,7 @@ https://www.cnblogs.com/chenhaiming/p/9930628.html
 <br>
 使用pyrcc5将文件 $filename$.qrc编译成.py文件
 pyrcc5在pycharm中的配置:$FileName$ -o $FileNameWithoutExtension$_rc.py
+
+# 信号 与 槽
+https://www.cnblogs.com/chenhaiming/p/9930628.html
+
