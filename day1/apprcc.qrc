@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="pic">
+        <file>a.jfif</file>
+        <file>b.jfif</file>
+    </qresource>
+</RCC>
